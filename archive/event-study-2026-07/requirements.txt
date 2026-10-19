@@ -1,0 +1,10 @@
+pandas
+numpy
+scipy
+statsmodels
+requests
+python-dotenv
+matplotlib
+databento
+twscrape
+pyarrow

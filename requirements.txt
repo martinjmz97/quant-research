@@ -1,0 +1,14 @@
+# CLOB client (CLOB V2 beta SDK) — polars extra, no pandas (see POLYMARKET_MM.md)
+polymarket-client[polars]>=0.1.0b19
+python-dotenv>=1.0
+
+# testing
+pytest>=8.0
+pytest-asyncio>=0.24
+
+# analysis / calibration
+numpy>=1.26
+scipy>=1.13
+statsmodels>=0.14
+matplotlib>=3.9
+numba>=0.60

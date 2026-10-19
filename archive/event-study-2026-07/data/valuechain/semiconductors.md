@@ -1,0 +1,16 @@
+# Semiconductor / Tech Hardware Value Chain (partial — downstream dependents/current risk sections still needed; historical shocks section is thorough)
+
+## Historical Shock Events (well-sourced, chronological)
+
+1. **March 19, 2021 — Renesas Naka fab fire**: 2:47am fire, N3 building 300mm line; 17 tools damaged. Renesas held ~30-35% global auto MCU share. Restarted April 17 at <10% capacity, 100% by June 24. Renesas shares fell 5.5%; Toyota/Nissan/Honda each fell >2%.
+2. **Oct 20-23, 2020 — AKM Semiconductor fire** (Nobeoka, Japan): only LSI production base, audio DACs/ADCs used industry-wide. No isolated stock move found (parent Asahi Kasei too diversified to show signal).
+3. **Taiwan earthquakes affecting TSMC**: April 3, 2024 (M7.4) — ~$60M Q2 earnings hit, no critical tool damage, same-day recovery expected. Feb 6, 2016 (M6.6) — >1% Q1 wafer shipment disruption, offset by demand upside. Sept 21, 1999 (Chi-Chi, M7.3+) — DRAM prices jumped >25%, shortages lasted months.
+4. **Feb 14-19, 2021 — Texas Winter Storm Uri**: NXP's 2 Austin fabs (~30% of NXP global footprint) shut Feb 15; Samsung Austin Feb 16; Infineon Austin also halted. NXP resumed March 11 (~3-4wk downtime). NXP guided ~$100M Q2 2021 revenue hit.
+5. **COVID chip shortage (2020-2022) + 2022-2023 downturn**: AlixPartners raised 2021 auto industry lost-revenue estimate $110B→$210B; Ford guided ~$2.5B hit, GM $1.5-2B. ASML market cap doubled to ~$270B by May 2021. H2 2022 reversal: Micron inventory-to-revenue 65%→200%+, gross margin 50%→-31.4% in 3 quarters; Samsung Q1 2023 operating profit -95% YoY.
+6. **US export controls on China**: Aug 26 2022 — Nvidia A100/H100 license requirement, up to $400M Q3 China sales at risk. Oct 7 2022 — sweeping BIS rules; Lam Research -3.1%, KLA -4.7%, AMAT -5.8% same day; AMAT guided -$400M. 2024 — ASML China exposure hit 49% of Q2 2024 sales before Dutch license requirement; ASML -11.4% Oct 16 2024. April 2025 — Nvidia H20 China license requirement indefinite; $5.5B quarterly charge disclosed; NVDA -6.8% April 16 2025.
+7. **July 2019 — Japan-Korea trade dispute**: Japan export controls on HF/photoresist/fluorinated polyimide targeting Samsung/SK Hynix. Japanese HF exports to Korea -87.9%; Samsung Q3 2019 operating profit -12.4% YoY (partial attribution, memory weakness also a factor).
+8. **Feb 2022+ — Ukraine war neon shortage**: Ukraine supplied ~50-90% of world semiconductor-grade neon (byproduct of steel production). Spot neon prices spiked ~600% (TSMC/Samsung paid ~$3,300/m³ vs pre-war <$500/m³). Actual production not meaningfully disrupted (fabs had stockpiled 3-12mo reserves post-2014 Crimea).
+9. **2020-2021 — Taiwan drought** (worst since 1964): TSMC/UMC/Vanguard ordered to cut water use 15%; TSMC spent >NT$0.5B on water trucks; estimated 0.7-1.1% revenue impact in a severe drought scenario.
+10. **Kioxia/Western Digital Yokkaichi NAND incidents**: June 15 2019 power outage destroyed 6-15 exabytes in-process flash. Feb 2022 contamination lost 6.5-7 exabytes (~13% of joint Q1 output); NAND spot pricing projected +5-10% Q2 2022.
+
+## [NEEDS FOLLOW-UP: chokepoint suppliers detail beyond what's in consumer_electronics.md (ASML/equipment concentration specifics), downstream dependents mapping, current 2026 risk points]
